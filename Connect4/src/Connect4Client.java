@@ -1,3 +1,4 @@
+// Modified from http://www.cs.armstrong.edu/liang/intro11e/html/TicTacToeClient.html
 import java.io.*;
 import java.net.*;
 import java.util.Date;
