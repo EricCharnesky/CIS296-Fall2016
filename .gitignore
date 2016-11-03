@@ -19,3 +19,4 @@ dist/
 nbdist/
 .nb-gradle/
 /*/nbproject/private/
+/bin/
