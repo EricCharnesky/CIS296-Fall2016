@@ -68,7 +68,7 @@ public class Connect4Client extends Application
     
     // Create a scene and place it in the stage
     Scene scene = new Scene(borderPane, 320, 350);
-    primaryStage.setTitle("TicTacToeClient"); // Set the stage title
+    primaryStage.setTitle("Connect4Client"); // Set the stage title
     primaryStage.setScene(scene); // Place the scene in the stage
     primaryStage.show(); // Display the stage   
 
